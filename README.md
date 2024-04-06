@@ -3,4 +3,4 @@ FlightFinder is a powerful tool designed to help users find the most affordable 
 
 
 ## Data Flow Diagram
-![Data Flow Diagram](https://images/flight-finder-Page-1.jpg)
+![Data Flow Diagram](/images/flight-finder-Page-1.jpg)
